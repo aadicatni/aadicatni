@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aadi 👋
 
-<!--
-**aadicatni/aadicatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in the mathematics behind complex problems and the ways computation can help us explore them.
 
-Here are some ideas to get you started:
+My interests include **mathematics, games, puzzles, origami, machine learning, and computational problem-solving**. I enjoy exploring problems that involve logical reasoning, patterns, optimisation, and sometimes data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Areas of Interest
+
+- **Mathematics** — mathematical reasoning, modelling, and problem-solving
+- **Optimisation & Algorithms** — exploring efficient approaches to constrained problems
+- **Games & Puzzles** — logic, strategy, and mathematical thinking
+- **Machine Learning** — learning how algorithms identify patterns and make predictions
+
+## 🛠️ Projects
+
+Maybe trying out a game about programming again 
+been told its better to document
+
+## 🌱 What I'm Working On
+
+- The miner was replaced lol
+
+## 📫 Connect
+
+- GitHub: [@aadicatni](https://github.com/aadicatni)
+
+Thanks for stopping by!
