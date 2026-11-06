@@ -13,7 +13,7 @@ My interests include **mathematics, games, puzzles, origami, machine learning, a
 
 ## 🛠️ Projects
 
-Maybe trying out a game about programming again 
+Maybe trying out a game about programming again  
 been told its better to document
 
 ## 🌱 What I'm Working On
